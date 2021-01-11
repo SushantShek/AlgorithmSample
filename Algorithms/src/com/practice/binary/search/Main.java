@@ -1,11 +1,8 @@
 package com.practice.binary.search;
 
-import com.practice.binary.search.BinarySearchTree;
-
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
         System.out.println("Hello world");
         BinarySearchTree bst = new BinarySearchTree();
         boolean resp = bst.addNode(3);
